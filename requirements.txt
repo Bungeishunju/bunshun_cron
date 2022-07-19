@@ -1,0 +1,7 @@
+selenium
+chromedriver-binary==103.0.5060.24.0
+requests
+pandas
+beautifulsoup4
+python-dotenv
+black
